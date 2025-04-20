@@ -1,1 +1,1 @@
-# calculadora-imc
+Projeto de estudo JavaScript criando uma calculadora que mede o IMC ideal levando em consideração peso e altura.
